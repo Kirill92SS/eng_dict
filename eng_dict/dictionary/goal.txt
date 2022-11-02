@@ -1,0 +1,2 @@
+Create table with name - dictionary and two fiels: id, word.
+Create API, who make CRUD operation with table 'dictionary'.
